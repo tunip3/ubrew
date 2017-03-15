@@ -13,7 +13,7 @@
 				{
 					"id": "551-php",
 					"title": "PHP WebExploits for 5.5.1",
-					"description": "Version 2.2 - PHP code by Cybernatus",
+					"description": "Version 2.2 - PHP code mainly by Cybernatus",
 					"icon": "flag",
 					"items": [
 						{
@@ -69,6 +69,12 @@
 							"description": "Remove incomplete updates from the Wii U.",
 							"icon": "removeupdate",
 							"url": "removeupdate/index.php"
+						},
+						{
+							"title": "Homebrew app store",
+							"description": "homebrew app downloader",
+							"icon": "bars",
+							"url": "hbas/hbas.php"
 						}
 					]
 				},
