@@ -1,9 +1,9 @@
 @font-face {
-    font-family: "CustomFont";
-    src: url('path/Paintball_Beta_4a.otf') format("opentype");
+    font-family: "splat";
+    src: url("Paintball_Beta_4a.otf");
 }
 *{
-    font-family: CustomFont;
+    font-family: splat;
 	color: white;
     background-color: black !important;
 }
