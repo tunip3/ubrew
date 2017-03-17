@@ -29,6 +29,12 @@
 							"url": "hbl/index.php"
 						},
 						{
+							"title": "Homebrew app store",
+							"description": "homebrew app downloader",
+							"icon": "bars",
+							"url": "hbas/hbas.php"
+						},
+						{
 							"title": "Loadiine GX2",
 							"description": "Backup Game Loader: Run Games off your SD card.",
 							"icon": "gamepad",
@@ -69,13 +75,8 @@
 							"description": "Remove incomplete updates from the Wii U.",
 							"icon": "removeupdate",
 							"url": "removeupdate/index.php"
-						},
-						{
-							"title": "Homebrew app store",
-							"description": "homebrew app downloader",
-							"icon": "bars",
-							"url": "hbas/hbas.php"
 						}
+						
 					]
 				},
 				{
